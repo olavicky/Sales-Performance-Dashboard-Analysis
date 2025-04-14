@@ -1,4 +1,5 @@
 📊 Sales Performance Dashboard – Power BI
+
 📌 Overview
 This Power BI dashboard provides an end-to-end analysis of sales performance across products, payment types, shipping modes, and customer locations. It enables business stakeholders to quickly identify sales trends, top-performing categories, and areas for strategic focus.
 
