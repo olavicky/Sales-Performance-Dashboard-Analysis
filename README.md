@@ -1,4 +1,4 @@
-📊 Sales Performance Dashboard – Power BI
+📊 Sales Performance Dashboard
 
 📌 Overview
 This Power BI dashboard provides an end-to-end analysis of sales performance across products, payment types, shipping modes, and customer locations. It enables business stakeholders to quickly identify sales trends, top-performing categories, and areas for strategic focus.
@@ -19,5 +19,5 @@ Geographic Analysis – U.S. map showing sales distribution by city.
 KPI Cards – Summary of Sales, Orders, Customers, and Products with period-over-period comparison.
 
 🛠 Tools Used: 
-Power BI
+Power BI,
 DAX
