@@ -8,7 +8,7 @@ Top & Bottom 10 Products by Sales – Spot product winners and underperformers.
 
 Sales by Ship Mode – Compare sales volumes across shipping methods.
 
-Sales by Category – Analyze contribution from Technology, Furniture, and Office Supplies.
+Sales by Category– Analyze contribution from Technology, Furniture, and Office Supplies.
 
 Sales by Payment Type – Identify the dominant payment methods driving revenue.
 
@@ -18,6 +18,6 @@ Geographic Analysis – U.S. map showing sales distribution by city.
 
 KPI Cards – Summary of Sales, Orders, Customers, and Products with period-over-period comparison.
 
-🛠 Tools Used
+🛠 Tools Used: 
 Power BI
 DAX
